@@ -1,0 +1,1 @@
+Small script to showcase how to use AWS KMS SDK to encrypt & decrypt secrets.

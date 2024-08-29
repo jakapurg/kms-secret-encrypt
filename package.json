@@ -1,0 +1,14 @@
+{
+    "scripts": {
+        "start": "node -r ts-node/register ./main"
+    },
+    "devDependencies": {
+        "typescript": "^5.5.3"
+    },
+    "dependencies": {
+        "@aws-sdk/client-kms": "^3.637.0",
+        "@types/node": "^20.14.11",
+        "dotenv": "^16.4.5",
+        "ts-node": "^10.9.2"
+    }
+}
